@@ -4,7 +4,7 @@ a = [100, 200, 300]
 def foo(arg):
     print('arg = {arg}')
 
-class Foo:
+class foo:
     pass
 
 if (__name__== '__main__'): 
